@@ -1,0 +1,5 @@
+,id_record,date,age_years,sex,diagnosis1,diagnosis2,diagnosis3,va_re_logMar,va_le_logMar,unilateral,rep_record,comments
+125,126,2016-03-09,43,Male,Autoimmune retinopathy,Inflammatory disease,,-0.02,-0.04,,Id:0221 - Id:0252 - Id:0332,
+220,221,2020-04-09,47,Male,Autoimmune retinopathy,Inflammatory disease,,-0.04,-0.08,,Id:0252 - Id:0332 - Id:0126,
+251,252,2017-04-29,44,Male,Autoimmune retinopathy,Inflammatory disease,,0.0,0.0,,Id:0221 - Id:0332 - Id:0126,
+331,332,2016-11-17,43,Male,Autoimmune retinopathy,Inflammatory disease,,0.02,0.0,,Id:0221 - Id:0252 - Id:0126,

@@ -1,0 +1,3 @@
+,id_record,date,age_years,sex,diagnosis1,diagnosis2,diagnosis3,va_re_logMar,va_le_logMar,unilateral,rep_record,comments
+5,6,2006-10-07,20,Male,Retinal toxicity,,,-0.06,0.04,,Id:0112,Toxic maculopathy by isotretinoin
+111,112,2005-12-08,19,Male,Retinal toxicity,,,-0.08,-0.04,,Id:0006,Toxic maculopathy by isotretinoin

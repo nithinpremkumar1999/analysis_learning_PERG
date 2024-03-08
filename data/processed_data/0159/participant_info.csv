@@ -1,0 +1,4 @@
+,id_record,date,age_years,sex,diagnosis1,diagnosis2,diagnosis3,va_re_logMar,va_le_logMar,unilateral,rep_record,comments
+158,159,2007-04-05,51,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.16,0.16,,Id:0256 - Id:0290,
+255,256,2006-10-26,50,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.12,0.14,,Id:0159 - Id:0290,
+289,290,2005-12-31,49,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.1,0.16,,Id:0159 - Id:0256,

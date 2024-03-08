@@ -1,0 +1,6 @@
+,id_record,date,age_years,sex,diagnosis1,diagnosis2,diagnosis3,va_re_logMar,va_le_logMar,unilateral,rep_record,comments
+2,3,2019-08-08,49,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.26,0.0,,Id:0329 - Id:0154 - Id:0049 - Id:0271,
+328,329,2013-12-05,44,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.1,0.0,,Id:0154 - Id:0049 - Id:0003 - Id:0271,
+153,154,2006-10-26,37,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.12,-0.04,,Id:0329 - Id:0003 - Id:0049 - Id:0271,
+48,49,2005-12-31,36,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.12,-0.08,,Id:0329 - Id:0003 - Id:0154 - Id:0271,
+270,271,2007-11-08,38,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.08,-0.04,,Id:0049 - Id:0003 - Id:0329 - Id:0154,
